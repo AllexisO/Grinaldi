@@ -1,0 +1,72 @@
+@media (min-width:1200px){}
+@media (min-width:992px) and (max-width:1199px){.st-navbar .navbar-nav li a{font-size:16px;}
+.text-box{background-color:#52648c;height:250px;}
+.text-box2{height:151px;}
+.design-block1{font-size:16px;}
+.design-block2{font-size:11px;}
+a.learn-more-link{font-size:13px;}
+.box a{font-size:15px;}
+p.phone-color{font-size:20px;}
+.border-footer-left{padding:0 10px 0 0;}
+.border-footer-right{border-left:none;padding:0 10px 0 0;}
+.container-about-us, .container-clients{padding:0;margin-left:-15px;margin-right:-15px;width:inherit;}
+.context-about-us{padding-left:20px;padding-right:20px;}
+.contact-text{padding:0 15px 0 15px;margin-top:1px;}
+.button-submit{width:initial;}
+.contacts-form-input, .message-input, .button-submit{padding-left:15px;padding-right:15px;}
+.street{padding-left:50px;}
+}
+@media (min-width:768px) and (max-width:991px){.st-navbar .navbar-nav li a{font-size:15px;padding:0px 23px 0 23px;}
+.category-content .cloakroom img{height:auto;}
+.text-box{background-color:#52648c;height:277px;}
+.design-block1{font-size:25px;}
+.design-block2{font-size:15px;}
+a.learn-more-link{font-size:13px;}
+.container-about-us, .container-clients{padding:0;margin-left:-15px;margin-right:-15px;width:inherit;}
+.context-about-us{padding-left:20px;padding-right:20px;}
+.contact-text{padding:0 15px 0 15px;margin-top:20px;}
+.button-submit{width:inherit;}
+.contacts-form-input, .message-input, .button-submit{padding-left:15px;padding-right:15px;}
+}
+@media (max-width:767px){.main-page-paddings, .category-wrapper{padding:0;}
+.text-box{background-color:#52648c;height:277px;}
+.category-wrapper .category-overlay{padding:0px;}
+.category-overlay p{text-align:center;font-size:14px;margin-top:50%;}
+.category-content .kitchen .category-overlay p{font-size:17px;margin-top:27%;}
+.category-content .bath .category-overlay p,
+.category-content .bed .category-overlay p{}
+.category-content .cloakroom .category-overlay p{font-size:17px;margin-top:31%;}
+.nav > li{padding:15px 45px 0 0;border:none;}
+.container-about-us, .container-clients{padding:0;margin-left:-15px;margin-right:-15px;}
+.context-about-us{padding-left:20px;padding-right:20px;font-size:15px;}
+.contact-text{padding:0 15px 0 15px;margin-top:20px;}
+.street{padding-top:30px;}
+.button-submit{width:inherit;}
+.contacts-form-input, .message-input, .button-submit{padding-left:15px;padding-right:15px;}
+.lang-menu{float:right;display:inline-block;margin-top:-166px;margin-right:16px;padding-right:0px;}
+}
+@media (max-width:479px){.main-page-paddings, .category-wrapper{padding:0;}
+.category-wrapper .category-overlay{padding:0px;}
+.category-overlay p{text-align:center;font-size:14px;margin-top:50%;}
+.category-content .kitchen .category-overlay p{font-size:17px;margin-top:27%;}
+.category-content .cloakroom .category-overlay p{font-size:25px;margin-top:50%;}
+.nav > li{border:none;padding:15px 45px 0 0;}
+.text-box{background-color:#52648c;height:277px;}
+.bed .category-overlay p, .bath .category-overlay p{font-size:21px;margin-top:33%;}
+.living .category-overlay p{font-size:21px;margin-top:33%;}
+.interior .category-overlay p{font-size:21px;margin-top:30%;}
+.container-about-us, .container-clients{padding:0;margin-left:-15px;margin-right:-15px;}
+.contact-text{padding:0 15px 0 15px;margin-top:0px;}
+.contacts-form-input, .button-submit{padding-left:15px;padding-right:15px;}
+.lang-menu{float:right;display:inline-block;margin-top:-166px;margin-right:4px;padding-right:0px;}
+ul.lang-menu li{padding-left:5px;}
+.design-block1{font-size:20px;}
+.design-block2{font-size:11px;}
+}
+@media (min-width:479){#main-page{padding:0;}
+.main-page-paddings{padding:0;}
+.interior .category-overlay p{font-size:21px;margin-top:30%;}
+.container-about-us, .container-clients{padding:0;margin-left:-15px;margin-right:-15px;}
+.context-about-us{font-size:13px;}
+.lang-menu{float:right;display:inline-block;margin-top:-166px;margin-right:0px;padding-right:0px;}
+}
